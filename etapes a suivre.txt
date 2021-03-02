@@ -1,0 +1,7 @@
+etapes
+
+import existing maven project
+maven project update project 
+launsh wamp
+clean install  
+run as spring boot app  
